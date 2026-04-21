@@ -4,4 +4,4 @@
 ### Responsable de la entrega:
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :-------: | :-------: |
-| XXXXXX | Martinez Madero, Pablo | 16/4/2026 | Semana 06 |
+| 106516 | Martínez Madero, Pablo | 16/4/2026 | Semana 06 |
